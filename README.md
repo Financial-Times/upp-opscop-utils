@@ -6,7 +6,9 @@ The files in this repo are meant to be run Individually, it is a storage are for
 
 ##  http-get-validator  ##
 
-A simple script to call one of the upp store endpoints and check if content is present (and additional conditions). The script can serve as a basis to edit as circumstances require.
+A simple script to call one of the upp store endpoints and check if content is present (and additional conditions).
+Usually run locally.
+The script can serve as a basis to edit as circumstances require.
 
 ### To build:  ###
 `go build`
